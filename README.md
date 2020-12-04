@@ -1,3 +1,3 @@
 # Profiles REST API
 
-Profiles REST API practice code.
+Profiles REST API source code.
